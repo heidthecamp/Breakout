@@ -1,4 +1,4 @@
-CMAKE_MINIMUM_REQUIRED(VERSION 3.26 FATAL_ERROR)
+CMAKE_MINIMUM_REQUIRED(VERSION 3.21 FATAL_ERROR)
 
 # Determine if this file has been included by ADD_SUBDIRECTORY or run directly from cmake
 # If the file was included, it will then run a sub-cmake in order to configure and build
